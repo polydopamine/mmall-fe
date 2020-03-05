@@ -4,6 +4,8 @@
   "description": "mmall前端代码",
   "main": "index.js",
   "dependencies": {
+    "font-awesome": "^4.7.0",
+    "hogan": "^1.0.2",
     "webpack": "^1.15.0"
   },
   "devDependencies": {
